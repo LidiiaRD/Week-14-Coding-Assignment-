@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.bg-yellow {
+  background-color: yellow;
+}
+
+.card {
+  position: relative;
+  margin: 10px auto;
+  width: 300px;
+}
+
+.del-btn {
+  position: absolute;
+  top: 0;
+  right: 2%;
+  color: red;
+  border: none;
+  background: none;
+  font-size: large;
+  font-weight: bolder;
+}
+
+.form {
+  border: 1px solid black;
+  width: 300px;
+  display: block;
+  margin-left: 230px;
+  margin-top: 30px;
+}
